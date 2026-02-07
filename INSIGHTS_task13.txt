@@ -1,0 +1,7 @@
+INSIGHTS – SUPERSTORE DASHBOARD (TASK 13)
+
+1. The Technology category is the top-performing segment, contributing the highest share of total sales and profit compared to Furniture and Office Supplies.
+
+2. The West region leads in overall sales performance, indicating strong customer demand, while other regions show relatively lower profitability.
+
+3. Revenue is highly concentrated, as the top 10 products contribute a significant portion of total sales, suggesting opportunities for focused marketing and inventory optimization.
